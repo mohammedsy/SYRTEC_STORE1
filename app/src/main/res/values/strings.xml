@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">إدارة أجياد</string>
+    <string name="channel_name">الطلبات والتنبيهات</string>
+    <string name="channel_description">تنبيه برنين عند وصول طلب جديد أو ردّ عميل أو دفع</string>
+    <string name="offline_title">تعذّر الاتصال بالمتجر</string>
+    <string name="offline_body">تأكد من الإنترنت ثم أعد المحاولة.</string>
+    <string name="retry">إعادة المحاولة</string>
+</resources>
